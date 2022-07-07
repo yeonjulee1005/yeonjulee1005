@@ -1,26 +1,20 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yeonju Lee
 
-[![Github](https://img.shields.io/badge/-@yeonjulee1005-%23181717?style=flat&logo=github)](https://github.com/yeonjulee1005)
-[![Instagram](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
-[![Youtube](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Gmail](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 [![WebSite](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=Dewdew&url=https://dewdew.kr/)](https://dewdew.kr/)
+[![Github](https://img.shields.io/badge/-@yeonjulee1005-%23181717?style=flat&logo=github)](https://github.com/yeonjulee1005)
+[![Gmail](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
+[![Instagram](https://img.shields.io/badge/-kanna6501-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
+[![Youtube](https://img.shields.io/badge/-koolkanna-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005)
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+------------
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+### I'm FE Developer💻
 
-🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🌵 𝗔𝗴𝗮𝘃𝗲 𝗻𝗮𝗻𝗻𝘆
+:computer: Work Together, Always improvement, And Passion!
 
-:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [tech-stack.tools](http://github.com/xiaoluoboding/tech-stack.tools) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
-- [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
-- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
-- `fancy-qrcode` - Fancy QRCode generator for Web.
+> 🖖 Vue.js Nuxt.js I Love!
+>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -53,3 +47,10 @@
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjulee1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+- [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
+- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
+- `fancy-qrcode` - Fancy QRCode generator for Web.
