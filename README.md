@@ -3,8 +3,8 @@
 [![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://dewdew.kr/)](https://dewdew.kr/)
 [![Github](https://img.shields.io/badge/-@yeonjulee1005-%23181717?style=flat&logo=github)](https://github.com/yeonjulee1005)
 [![Gmail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
-[![Instagram](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
-[![Youtube](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
+[![Instagram](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
+[![Youtube](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
 ------------
@@ -17,7 +17,7 @@
 ------------
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -35,18 +35,18 @@
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
 
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/-microsoftazure-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
-![Jira](https://img.shields.io/badge/-jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/-postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
-![Chrome](https://img.shields.io/badge/-GoogleChrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
+![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
 
 ## Stats & Languages
 
