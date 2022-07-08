@@ -10,12 +10,11 @@
 ------------
 
 ### I'm FE Developer💻
+### Work Together, Always improvement, And Passion!
 
-:computer: Work Together, Always improvement, And Passion!
-
-> 🖖 Vue.js & Nuxt.js Love it 🫶
-> Also I love my Motorcycle🏍
-> I Love Travel 🗺️
+#### 🖖 Vue.js & Nuxt.js Love it 🫶
+#### Also I love my Motorcycle🏍
+#### I Love Travel 🗺️
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
