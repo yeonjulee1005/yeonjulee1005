@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
 [![Instagram](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
 [![Youtube](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
-![Visitor](https://visitor-badge.laobi.icu/badge?color=%23181717?page_id=yeonjulee1005)
+![Visitor](https://visitor-badge.laobi.icu/badge?color=%23181717?page_id=yeonjulee1005.yeonjulee1005)
 
 ------------
 ## Work Together, Always improvement, And Passion!
