@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yeonju Lee
 
 [![WebSite](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=Dewdew&url=https://dewdew.kr/)](https://dewdew.kr/)
-[![Github](https://img.shields.io/badge/-@yeonjulee1005?style=flat&logo=github)](https://github.com/yeonjulee1005)
-[![Gmail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
-[![Instagram](https://img.shields.io/badge/-dewdew_rider?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
-[![Youtube](https://img.shields.io/badge/-dewdew_rider?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
+[![Github](https://img.shields.io/badge/-@yeonjulee1005-%23181717?style=flat&logo=github)](https://github.com/yeonjulee1005)
+[![Gmail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
+[![Instagram](https://img.shields.io/badge/-dewdew_rider-darkred?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
+[![Youtube](https://img.shields.io/badge/-dewdew_rider-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005)
 
 ------------
