@@ -21,12 +21,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat&logo=Flutter)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=Nuxtdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Nodedotjs)
+![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat&logo=Flutter)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-![PWA](https://img.shields.io/badge/-PWA-%23CC6699?style=flat&logo=PWA&logoColor=ffffff)
+![PWA](https://img.shields.io/badge/-PWA-%23333333?style=flat&logo=PWA&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat&logo=less&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat&logo=stylus)
 
