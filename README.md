@@ -34,12 +34,15 @@
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat&logo=stylus)
 
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=ffffff)
+![Jira](https://img.shields.io/badge/-jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/-microsoftazure-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
