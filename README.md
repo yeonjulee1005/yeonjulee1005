@@ -23,9 +23,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)
+![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat&logo=Flutter)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
+![PWA](https://img.shields.io/badge/-PWA-%23CC6699?style=flat&logo=PWA&logoColor=ffffff)
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat&logo=less&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat&logo=stylus)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
