@@ -46,18 +46,15 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
-![Chrome](https://img.shields.io/badge/-GoogleChrome-4285F4?style=flat&logo=googlechrome&logoColor=%ffffff)
+![Chrome](https://img.shields.io/badge/-GoogleChrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats & Languages
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
-
-## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjulee1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-<!-- - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+<!-- ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+- [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
 - [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
 - `fancy-qrcode` - Fancy QRCode generator for Web. -->
