@@ -39,11 +39,14 @@
 ![Azure](https://img.shields.io/badge/-microsoftazure-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
+![Chrome](https://img.shields.io/badge/-GoogleChrome-4285F4?style=flat&logo=googlechrome&logoColor=%ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
