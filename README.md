@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@gmail.com)](mailto:yeonju.lee1005@gmail.com)
 [![Instagram](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
 [![Youtube](https://img.shields.io/badge/-dewdew_rider-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
 ------------
 ## Work Together, Always improvement, And Passion!
@@ -19,7 +19,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=appveyor&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)
