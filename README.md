@@ -23,7 +23,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=Nuxtdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Nodedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Nodedotjs&logoColor=ffffff)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Flutter&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat&logo=Flutter)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
