@@ -19,7 +19,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=appveyor&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)
