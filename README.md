@@ -8,7 +8,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
 ------------
-## Work Together, Always improvement, And Passion!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F77100&width=435&lines=Work+Together%2C+Always+improvement%2C+and+Passion!)](https://git.io/typing-svg)
 
 ##### 🖖 Vue.js & Nuxt.js Love it 🫶
 ##### Also I love my Motorcycle🏍
@@ -17,21 +17,19 @@
 ------------
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=Nuxtdotjs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vuedotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23FFCE5A&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=Nuxtdotjs)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Nodedotjs&logoColor=ffffff)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Flutter&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat&logo=Flutter)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat&logo=less&logoColor=ffffff)
 ![PWA](https://img.shields.io/badge/-PWA-%23333333?style=flat&logo=PWA&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat&logo=stylus)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
 
@@ -46,12 +44,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
-![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
+![Chr2ome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
 
 ## Stats & Languages
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeonjulee1005&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjulee1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=flat&column=7)](https://github.com/yeonjulee1005/)
 
 <!-- ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
