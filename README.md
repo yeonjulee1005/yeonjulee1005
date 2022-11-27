@@ -50,8 +50,8 @@
 ![npm](https://img.shields.io/badge/-npm-FF6C37?style=flat&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
-![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff
-![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=ffffff))
+![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=ffffff)
 
 ## Stats & Languages
 
