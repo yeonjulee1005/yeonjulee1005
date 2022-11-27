@@ -56,7 +56,7 @@
 
 ## Stats & Languages
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=gruvbox&margin-w=10&margin-h=10&column=3)](https://github.com/yeonjulee1005/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=gruvbox&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjulee1005&theme=zenburn)
 ![Top Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjulee1005&theme=zenburn)
 ![Top Lang Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeonjulee1005&theme=zenburn)
