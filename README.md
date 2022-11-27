@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=ffffff)
+
 ![Postman](https://img.shields.io/badge/-Postman-CB3837?style=flat&logo=postman&logoColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/-npm-FF6C37?style=flat&logo=npm)
@@ -52,6 +52,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff)
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=ffffff)
 
 ## Stats & Languages
 
