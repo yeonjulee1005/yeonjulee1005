@@ -60,6 +60,8 @@ ___
 ___
 
 ## Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
@@ -70,15 +72,15 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=gruvbox&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
 
+<!-- 
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjulee1005&theme=zenburn)
 ![Top Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjulee1005&theme=zenburn)
 ![Top Lang Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeonjulee1005&theme=zenburn)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjulee1005&theme=zenburn)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeonjulee1005&theme=zenburn&utcOffset=8)
 
-<!-- 
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
 - [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
