@@ -60,8 +60,6 @@ ___
 ___
 
 ## Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonjulee1005)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
