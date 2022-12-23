@@ -8,7 +8,7 @@
 [![Youtube](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
-------------
+___
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F77100&width=435&lines=Work+Together%2C+Always+improvement%2C+and+Passion!)](https://git.io/typing-svg)
 
@@ -59,9 +59,12 @@ ___
 
 ___
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
+## Stats
 
-## Stats & Languages
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
+
+## Usage Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjulee1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,7 +77,7 @@ ___
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeonjulee1005&theme=zenburn&utcOffset=8)
 
 <!-- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
+
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
