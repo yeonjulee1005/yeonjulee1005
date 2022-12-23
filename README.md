@@ -73,7 +73,6 @@ ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=gruvbox&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
 
 <!-- 
-
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjulee1005&theme=zenburn)
 ![Top Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjulee1005&theme=zenburn)
