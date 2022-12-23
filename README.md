@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
 [![Youtube](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
+[![Wakatime](https://wakatime.com/badge/user/016ddf07-e5a1-471c-8dd7-64e143cee8ac.svg)](https://wakatime.com/@016ddf07-e5a1-471c-8dd7-64e143cee8ac)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
 ___
