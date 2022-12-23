@@ -64,8 +64,6 @@ ___
 
 
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dewdew)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
