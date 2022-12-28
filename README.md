@@ -11,7 +11,7 @@
 
 ___
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F77100&width=435&lines=Work+Together%2C+Always+improvement%2C+and+Passion!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=500&duration=3000&pause=500&color=F7CF39&multiline=true&width=435&height=100&lines=FE+Developer+Dewdew%F0%9F%A4%A8;Always+thinking%F0%9F%A4%94;Always+growing%F0%9F%A4%93)](https://git.io/typing-svg)
 
 #### 🖖 Vue.js & Nuxt.js Love it 🫶
 #### Also I love my Motorcycle🏍
