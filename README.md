@@ -64,6 +64,7 @@ ___
 
 
 <!--START_SECTION:waka-->
+
 **I'm an Early 🐤** 
 
 ```text
@@ -71,8 +72,8 @@ ___
 🌆 Daytime    305 commits    ███████████░░░░░░░░░░░░░░   45.52% 
 🌃 Evening    157 commits    █████░░░░░░░░░░░░░░░░░░░░   23.43% 
 🌙 Night      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.1%
-
 ```
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -83,7 +84,6 @@ Thursday     135 commits    █████░░░░░░░░░░░░�
 Friday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
 Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Sunday       21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
-
 ```
 
 
@@ -98,20 +98,17 @@ TypeScript               3 hrs 15 mins       ██░░░░░░░░░�
 JSON                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
 JavaScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
 YAML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.95%
-
 ```
-
 
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
 
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjulee1005&&count_private=true&line_height=40&hide_border=true&show_icons=true&theme=vue)
-
-## Usage Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yeonjulee1005&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=darkhub&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
+
+<!-- ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjulee1005&&count_private=true&line_height=40&hide_border=true&show_icons=true&theme=vue) -->
 
 <!-- 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
