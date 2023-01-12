@@ -105,13 +105,13 @@ YAML                     1 hr 57 mins        █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeonjulee1005&show_icons=true&theme=gruvbox)
+
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjulee1005&&count_private=true&line_height=40&hide_border=true&show_icons=true&theme=vue)
 
 ## Usage Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yeonjulee1005&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjulee1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=gruvbox&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjulee1005&theme=darkhub&margin-w=10&margin-h=10&column=7)](https://github.com/yeonjulee1005/)
 
 <!-- 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
