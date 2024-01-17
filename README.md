@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yeonju Lee, FE Developer💻
 
-[![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://dewdew.kr/)](https://www.dewdew.dev/)
+[![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://www.dewdew.dev/)](https://www.dewdew.dev/)
 [![LinkedIn](https://img.shields.io/badge/-@yeonjulee1005-%230A66C2?style=flat&logo=github)](https://www.linkedin.com/in/dewdew/)
 [![Mail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@kakao.com)](mailto:yeonju.lee1005@kakao.com)
 
@@ -32,9 +32,9 @@ ___
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![Nuxt3](https://img.shields.io/badge/-Nuxt3-%2300DC82?style=flat&logo=Nuxtdotjs)
-![Vue3](https://img.shields.io/badge/-Vue3-%234FC08D?style=flat&logo=Vuedotjs)
-![Astro](https://img.shields.io/badge/-Astro-%23BC52EE?style=flat&logo=astro)
+![Nuxt3](https://img.shields.io/badge/-Nuxt3-%2300DC82?style=flat&logo=Nuxtdotjs&logoColor=ffffff)
+![Vue3](https://img.shields.io/badge/-Vue3-%234FC08D?style=flat&logo=Vuedotjs&logoColor=ffffff)
+![Astro](https://img.shields.io/badge/-Astro-%23BC52EE?style=flat&logo=astro&logoColor=ffffff)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/-Supabase-%233FCF8E?style=flat&logo=supabase&logoColor=ffffff)
 
@@ -68,7 +68,7 @@ ___
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=Figma&logoColor=ffffff)
 
-![Arc](https://img.shields.io/badge/-Arc-%23FCBFBD?style=flat&logo=arc)
+![Arc](https://img.shields.io/badge/-Arc-%23FCBFBD?style=flat&logo=arc&logoColor=ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat&logo=googlechrome&logoColor=ffffff)
 ![Firefox](https://img.shields.io/badge/-Firefox-%23FF7139?style=flat&logo=Firefox&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23CB3837?style=flat&logo=postman&logoColor=ffffff)
