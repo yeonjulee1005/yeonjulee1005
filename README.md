@@ -1,8 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yeonju Lee, FE Developer💻
 
 [![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://www.dewdew.dev/)](https://www.dewdew.dev/)
-[![LinkedIn](https://img.shields.io/badge/-@yeonjulee1005-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewdew/)
-[![Mail](https://img.shields.io/badge/-yeonju.lee1005@gmail.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@kakao.com)](mailto:yeonju.lee1005@kakao.com)
+[![LinkedIn](https://img.shields.io/badge/-dewdew-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewdew/)
+[![Mail](https://img.shields.io/badge/-yeonju.lee1005@kakao.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@kakao.com)](mailto:yeonju.lee1005@kakao.com)
 
 [![Instagram](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dewdew_rider/)](https://instagram.com/dewdew_rider)
 [![Youtube](https://img.shields.io/badge/-Dewdew-%23181717?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8eXABzRI_UvC8TWNaN0yLw)](https://www.youtube.com/c/듀듀라이더)
