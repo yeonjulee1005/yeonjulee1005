@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yeonju Lee, FE Developer💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=500&duration=3000&pause=500&color=F7CF39&multiline=true&width=435&height=100&lines=FE+Developer+Dewdew%F0%9F%A4%A8;Always+thinking%F0%9F%A4%94;Always+growing%F0%9F%A4%93)](https://git.io/typing-svg)
 
 [![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://www.dewdew.dev/)](https://www.dewdew.dev/)
 [![LinkedIn](https://img.shields.io/badge/-dewdew-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewdew/)
@@ -9,16 +9,13 @@
 [![Wakatime](https://wakatime.com/badge/user/016ddf07-e5a1-471c-8dd7-64e143cee8ac.svg)](https://wakatime.com/@016ddf07-e5a1-471c-8dd7-64e143cee8ac)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
-___
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=500&duration=3000&pause=500&color=F7CF39&multiline=true&width=435&height=100&lines=FE+Developer+Dewdew%F0%9F%A4%A8;Always+thinking%F0%9F%A4%94;Always+growing%F0%9F%A4%93)](https://git.io/typing-svg)
+[![yeonjulee1005 Nuxter profile](https://nuxters.nuxt.com/card/yeonjulee1005/og.png)](https://nuxters.nuxt.com/yeonjulee1005)
 
 #### 🖖 Vue3 & Nuxt3 Love it 🫶
 #### Translator of [Element Plus](https://element-plus.org) and [Astro Docs](https://docs.astro.build/)
 #### Also I love my Motorcycle🏍
 #### I Love Travel 🗺️
 
-___
 
 [![@yeonjulee1005 Astro contributions](https://astro.badg.es/v2/contributor/yeonjulee1005.svg)](https://astro.badg.es/contributor/yeonjulee1005/)
 
