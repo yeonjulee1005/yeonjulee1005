@@ -11,13 +11,12 @@
 
 [![yeonjulee1005 Nuxter profile](https://nuxters.nuxt.com/card/yeonjulee1005/og.png)](https://nuxters.nuxt.com/yeonjulee1005)
 
-#### 🖖 Vue3 & Nuxt3 Love it 🫶
+[![@yeonjulee1005 Astro contributions](https://astro.badg.es/v2/contributor/yeonjulee1005.svg)](https://astro.badg.es/contributor/yeonjulee1005/)
+
+#### 🖖 Vue3 & Nuxt4 Love it 🫶
 #### Translator of [Element Plus](https://element-plus.org) and [Astro Docs](https://docs.astro.build/)
 #### Also I love my Motorcycle🏍
 #### I Love Travel 🗺️
-
-
-[![@yeonjulee1005 Astro contributions](https://astro.badg.es/v2/contributor/yeonjulee1005.svg)](https://astro.badg.es/contributor/yeonjulee1005/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonjulee1005&theme=dark)](https://git.io/streak-stats)
 
@@ -29,7 +28,7 @@ ___
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![Nuxt3](https://img.shields.io/badge/-Nuxt3-%2300DC82?style=flat&logo=Nuxtdotjs&logoColor=ffffff)
+![Nuxt4](https://img.shields.io/badge/-Nuxt3-%2300DC82?style=flat&logo=Nuxtdotjs&logoColor=ffffff)
 ![Vue3](https://img.shields.io/badge/-Vue3-%234FC08D?style=flat&logo=Vuedotjs&logoColor=ffffff)
 ![Astro](https://img.shields.io/badge/-Astro-%23BC52EE?style=flat&logo=astro&logoColor=ffffff)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=ffffff)
