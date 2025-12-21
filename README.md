@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=F73838&multiline=true&width=435&height=400&lines=Passion%2C+Challenge%2C;%26+Optimize.;Software+Engineer+Dewdew)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=F73838&multiline=true&width=435&height=200&lines=Passion%2C+Challenge%2C;%26+Optimize.;Software+Engineer+Dewdew)](https://git.io/typing-svg)
 
 [![Tech Blog](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://www.dewdew.dev/)](https://www.dewdew.world/)
 [![WebSite](https://img.shields.io/website?color=%23181717&style=flat&up_message=Dewdew&url=https://www.dewdew.dev/)](https://www.dewdew.dev/)
-[![LinkedIn](https://img.shields.io/badge/-dewdew-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewdew/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dewdew-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewdew/)
 [![Mail](https://img.shields.io/badge/-yeonju.lee1005@kakao.com-%23181717?style=flat&logo=Gmail&logoColor=white&link=mailto:yeonju.lee1005@kakao.com)](mailto:yeonju.lee1005@kakao.com)
+
 [![Wakatime](https://wakatime.com/badge/user/016ddf07-e5a1-471c-8dd7-64e143cee8ac.svg)](https://wakatime.com/@016ddf07-e5a1-471c-8dd7-64e143cee8ac)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yeonjulee1005?right_color=%23181717)
 
