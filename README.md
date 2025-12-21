@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=F73838&multiline=true&width=435&height=200&lines=Passion%2C+Challenge%2C;%26+Optimize.;Software+Engineer+Dewdew)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=F73838&multiline=true&width=435&height=100&lines=Passion%2C+Challenge%2C;%26+Optimize.;Software+Engineer+Dewdew)](https://git.io/typing-svg)
 
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-dewdew.dev-181717?style=flat&logo=blogger&logoColor=white)](https://www.dewdew.world/)
 [![WebSite](https://img.shields.io/badge/Website-dewdew.dev-181717?style=flat&logo=googlechrome&logoColor=white)](https://www.dewdew.dev/)
