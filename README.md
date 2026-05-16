@@ -16,5 +16,39 @@ ___
 ## Stats
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌆 Daytime                2837 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌃 Evening                4805 commits        ████████████░░░░░░░░░░░░░   48.92 % 
+🌙 Night                  858 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Tuesday                  1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                1141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Thursday                 1767 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   1051 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Saturday                 1997 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Sunday                   1850 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Vue                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+```
+
 
 <!--END_SECTION:waka-->
