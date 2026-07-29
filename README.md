@@ -16,5 +16,61 @@ ___
 ## Stats
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2059%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+🌆 Daytime                2622 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                4404 commits        ████████████░░░░░░░░░░░░░   47.99 % 
+🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Tuesday                  1059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Wednesday                1025 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 1559 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 1761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Sunday                   1863 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 1 hr 5 mins         ██████████████████████░░░   87.96 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 58 mins (78.06%)
+
+✍️ 104 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,440,676 Input Tokens, 17,178 Output Tokens
+
+💵 $7.58 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 15 AI Prompts
+
+Sonnet                   105 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 791 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
