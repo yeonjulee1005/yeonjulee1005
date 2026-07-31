@@ -21,21 +21,21 @@ ___
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-🌆 Daytime                2621 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌃 Evening                4401 commits        ████████████░░░░░░░░░░░░░   47.98 % 
-🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌞 Morning                1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌆 Daytime                2619 commits        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+🌃 Evening                4395 commits        ████████████░░░░░░░░░░░░░   47.95 % 
+🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Tuesday                  1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Wednesday                1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Thursday                 1558 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Saturday                 1761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Sunday                   1862 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Monday                   846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Tuesday                  1056 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Wednesday                1022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Thursday                 1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 1761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   1860 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 
 
@@ -45,31 +45,30 @@ Sunday                   1862 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ██████████████████████░░░   87.96 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Bash                     8 mins              ████████████████░░░░░░░░░   64.28 % 
+Other                    4 mins              █████████░░░░░░░░░░░░░░░░   35.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (78.06%)
+⏱ AI Coding Time: 4 mins (35.72%)
 
-✍️ 104 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,440,676 Input Tokens, 17,178 Output Tokens
+🔤 904,954 Input Tokens, 1,609 Output Tokens
 
-💵 $7.58 Estimated AI Cost This Week
+💵 $2.74 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Sonnet                   105 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 791 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
