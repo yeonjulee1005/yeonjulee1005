@@ -56,18 +56,18 @@ Other                    4 mins              █████████░░�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 904,954 Input Tokens, 1,609 Output Tokens
+🔤 756,780 Input Tokens, 1,483 Output Tokens
 
-💵 $2.74 Estimated AI Cost This Week
+💵 $2.29 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 23 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 25 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
