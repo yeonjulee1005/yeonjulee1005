@@ -21,10 +21,10 @@ ___
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-🌆 Daytime                2619 commits        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-🌃 Evening                4395 commits        ████████████░░░░░░░░░░░░░   47.95 % 
-🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+🌞 Morning                1400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌆 Daytime                2619 commits        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+🌃 Evening                4395 commits        ████████████░░░░░░░░░░░░░   47.93 % 
+🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -32,10 +32,10 @@ ___
 Monday                   846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 Tuesday                  1056 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 Wednesday                1022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Thursday                 1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 1761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Sunday                   1860 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Thursday                 1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Saturday                 1761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Sunday                   1865 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 ```
 
 
@@ -45,30 +45,13 @@ Sunday                   1860 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     8 mins              ████████████████░░░░░░░░░   64.28 % 
-Other                    4 mins              █████████░░░░░░░░░░░░░░░░   35.72 % 
+Bash                     8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (35.72%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 756,780 Input Tokens, 1,483 Output Tokens
-
-💵 $2.29 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
