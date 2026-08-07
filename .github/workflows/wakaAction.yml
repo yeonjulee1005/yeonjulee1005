@@ -9,8 +9,23 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Validate required secrets
+        run: |
+          missing=""
+          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
+            missing="${missing} WAKATIME_API_KEY"
+          fi
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            missing="${missing} GH_TOKEN"
+          fi
+          if [ -n "$missing" ]; then
+            echo "::error::Missing required secrets:${missing}"
+            exit 1
+          fi
+
+      - uses: anmol098/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -25,3 +40,9 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "False"
           COMMIT_MESSAGE: "Updated with Waka Readme"
+
+      - name: Report failure
+        if: failure()
+        run: |
+          echo "::error::Waka Readme update failed. Check WakaTime API key validity and GitHub token permissions."
+          echo "::error::Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
